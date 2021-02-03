@@ -13,7 +13,7 @@ Hi there :wave: I'm Michael, a Full-Stack Web Developer and Junior Software Engi
     - :man_technologist: Continue to Develop My Programming Skills
     - :globe_with_meridians: Complete My Developer Portfolio and Showcase All My Wares
 
-### Some of My Most Used Tech Stack Tools:
+### Some of My Most Used Tech Stack Tools Include:
 ![HTML](https://img.shields.io/static/v1?label=HTML&labelColor=6F7071&message=5&style=for-the-badge&color=E34F26&logo=html5)
 ![CSS](https://img.shields.io/static/v1?label=CSS&labelColor=6F7071&message=3&style=for-the-badge&color=1572B6&logo=css3&logoColor=1572B6)
 ![Javascript](https://img.shields.io/static/v1?label=Javascript&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=javascript)
