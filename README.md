@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/bg1.jpg" alt="Hey there! I'm Michael">
+<img src="assets/logo.gif" alt="Hey there! I'm Michael">
 </p>
 
 
