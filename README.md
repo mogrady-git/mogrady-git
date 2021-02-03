@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/bg1.jpg" alt="Hey there! I'm Michael" height="300px" width="800px">
+<img src="assets/logo.gif" alt="Hey there! I'm Michael">
 </p>
 
 
