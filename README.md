@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/bg2.jpg" alt="Hey there! I'm Michael" height="300px" width="800px">
+<img src="assets/bg1.jpg" alt="Hey there! I'm Michael" height="300px" width="800px">
 </p>
 
 
