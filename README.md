@@ -48,38 +48,10 @@ Hi there :wave: I'm Michael, a Full-Stack Web Developer and Junior Software Engi
 </p>
 
 <!-- 
-
 ### Web Development:
-![HTML](https://img.shields.io/static/v1?label=HTML&labelColor=6F7071&message=5&style=for-the-badge&color=E34F26&logo=html5)
-![CSS](https://img.shields.io/static/v1?label=CSS&labelColor=6F7071&message=3&style=for-the-badge&color=1572B6&logo=css3)
-![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&labelColor=6F7071&message=5&style=for-the-badge&color=5B4282&logo=bootstrap)
-![SASS](https://img.shields.io/static/v1?label=SASS&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=sass)
-![Wordpress](https://img.shields.io/static/v1?label=Wordpress&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=WORDPRESS)
-
-![jQuery](https://img.shields.io/static/v1?label=jQuery&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=jquery&logoColor=0868AC)
-![Javascript](https://img.shields.io/static/v1?label=Javascript&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=javascript)
-![Javascript](https://img.shields.io/static/v1?label=Javascript&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=javascript)
-![Javascript](https://img.shields.io/static/v1?label=Javascript&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=javascript)
-
-### Programming Languages I know:
-![Javascript](https://img.shields.io/static/v1?label=Javascript&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=javascript)
-![JAVA](https://img.shields.io/static/v1?label=JAVA&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=java&logoColor=EA2D2E)
-![PHP](https://img.shields.io/static/v1?label=PHP&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=php)
-![Javascript](https://img.shields.io/static/v1?label=Javascript&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=javascript)
-
-### Skills:
-![JSON](https://img.shields.io/static/v1?label=JSON&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=json)
-
-
-### Programming Languages I am Learning:
-![TypeScript](https://img.shields.io/static/v1?label=TypeScript&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=TYPESCRIPT)
-
 ### Tech I use: 
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&labelColor=6F7071&message=1.53-insider&style=for-the-badge&color=24bfa5&logo=visual-studio)
-![Github](https://img.shields.io/static/v1?label=GitHub&labelColor=6F7071&message=rebeccatraceyt&style=for-the-badge&color=73427A&logo=github)
-
-
-
+![Github](https://img.shields.io/static/v1?label=GitHub&labelColor=6F7071&message=Michael&style=for-the-badge&color=73427A&logo=github)
 -->
 
 
