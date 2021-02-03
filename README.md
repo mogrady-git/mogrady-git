@@ -1,4 +1,10 @@
-Hi there :wave: I'm Michael, a Full-Stack Web Developer and Junior Software Engineer based in the West of Ireland.
+<p align="center">
+<img src="assets/bg2.jpg" alt="Hey there! I'm Michael" height="300px" width="800px">
+</p>
+
+
+Hi there I'm Michael, a Full-Stack Web Developer and Junior Software Engineer based in the West of Ireland.
+
 - :man_teacher: I'm currently working on my **Full-Stack Software Development** Higher Diploma with [Galway Mayo Institute of Technology](https://gmit.ie/ "GMIT Homepage").
 - :man_student: I have a B.Sc (Hons) Degree in Business Information Systems from [GMIT](https://gmit.ie/ "GMIT Homepage"), graduating with First-Class Honours. 
 - :goal_net: 2021 Goals:
@@ -18,7 +24,6 @@ Hi there :wave: I'm Michael, a Full-Stack Web Developer and Junior Software Engi
 ![jQuery](https://img.shields.io/static/v1?label=jQuery&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=jquery&logoColor=0868AC)
 ![SASS](https://img.shields.io/static/v1?label=SASS&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=sass)
 ![Wordpress](https://img.shields.io/static/v1?label=Wordpress&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=wordpress&logoColor=0868AC)
-
 ![Python](https://img.shields.io/static/v1?label=Python&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=python&logoColor=FFD845)
 ![TypeScript](https://img.shields.io/static/v1?label=TypeScript&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=TYPESCRIPT)
 ![JAVA](https://img.shields.io/static/v1?label=JAVA&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=java&logoColor=EA2D2E)
