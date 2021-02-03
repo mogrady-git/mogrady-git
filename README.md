@@ -13,7 +13,7 @@ Hi there :wave: I'm Michael, a Full-Stack Web Developer and Junior Software Engi
     - :man_technologist: Continue to Develop My Programming Skills
     - :globe_with_meridians: Complete My Developer Portfolio and Showcase All My Wares
 
-
+### Tech Stack:
 ![HTML](https://img.shields.io/static/v1?label=HTML&labelColor=6F7071&message=5&style=for-the-badge&color=E34F26&logo=html5)
 ![CSS](https://img.shields.io/static/v1?label=CSS&labelColor=6F7071&message=3&style=for-the-badge&color=1572B6&logo=css3&logoColor=1572B6)
 ![Javascript](https://img.shields.io/static/v1?label=Javascript&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=javascript)
@@ -30,6 +30,8 @@ Hi there :wave: I'm Michael, a Full-Stack Web Developer and Junior Software Engi
 ![React](https://img.shields.io/static/v1?label=React&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/static/v1?label=Express&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=express&logoColor=00000)
 ![Node](https://img.shields.io/static/v1?label=Node&labelColor=6F7071&message=%20&style=for-the-badge&color=6F7071&logo=node.js&logoColor=83CD29)
+![MySql](https://img.shields.io/static/v1?label=mysql&labelColor=ffffff&message=%20&style=for-the-badge&color=ffffff&logo=mysql)
+![MongoDB](https://img.shields.io/static/v1?label=mongodb&labelColor=ffffff&message=%20&style=for-the-badge&color=ffffff&logo=mongodb)
 
 [![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mogrady-git&show_icons=true&theme=dark)](https://github.com/mogrady-git/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mogrady-git&show_icons=true&theme=dark&layout=compact&langs_count=10)](https://github.com/mogrady-git/github-readme-stats)
