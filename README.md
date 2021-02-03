@@ -1,10 +1,4 @@
-<p align="center">
-<img src="assets/bg2.jpg" alt="Hey there! I'm Michael" height="300px" width="800px">
-</p>
-
-
-Hi there I'm Michael, a Full-Stack Web Developer and Junior Software Engineer based in the West of Ireland.
-
+Hi there :wave: I'm Michael, a Full-Stack Web Developer and Junior Software Engineer based in the West of Ireland.
 - :man_teacher: I'm currently working on my **Full-Stack Software Development** Higher Diploma with [Galway Mayo Institute of Technology](https://gmit.ie/ "GMIT Homepage").
 - :man_student: I have a B.Sc (Hons) Degree in Business Information Systems from [GMIT](https://gmit.ie/ "GMIT Homepage"), graduating with First-Class Honours. 
 - :goal_net: 2021 Goals:
