@@ -33,7 +33,7 @@ Hi there :wave: I'm Michael, a Full-Stack Web Developer and Junior Software Engi
 ![MySql](https://img.shields.io/static/v1?label=mysql&labelColor=ffffff&message=%20&style=for-the-badge&color=ffffff&logo=mysql)
 ![MongoDB](https://img.shields.io/static/v1?label=mongodb&labelColor=ffffff&message=%20&style=for-the-badge&color=ffffff&logo=mongodb)
 
-[![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mogrady-git&show_icons=true&theme=dark)](https://github.com/mogrady-git/github-readme-stats)
+[![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mogrady-git&show_icons=true&theme=dark&hide=issues)](https://github.com/mogrady-git/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mogrady-git&show_icons=true&theme=dark&layout=compact&langs_count=10)](https://github.com/mogrady-git/github-readme-stats)
 
 <hr>
