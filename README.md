@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/logo2.gif" alt="Hey there! I'm Michael" height="250px" width="850px">
+<img src="assets/logo2.gif" alt="Hey there! I'm Michael" height="300px" width="850px">
 </p>
 Hi there :wave: I'm Michael, a Full-Stack Web Developer and Junior Software Engineer based in the West of Ireland.
 
